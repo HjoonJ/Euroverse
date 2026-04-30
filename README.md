@@ -13,6 +13,7 @@ EUROPAVERSE is an immersive XR experience built in Unity for the Meta Quest 3, b
 
 ## Repository Structure
 /EuropaVerseUnity/ # Full Unity project files
+
 /ProjectSubmission/QR_Codes/ # QR codes for MR interactions (REQUIRED!!!!)
 
 ---
